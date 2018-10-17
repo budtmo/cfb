@@ -9,3 +9,6 @@ coverage.xml
 xunit.xml
 
 venv/*
+
+Dockerfile
+README.md
