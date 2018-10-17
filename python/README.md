@@ -11,3 +11,9 @@ pip install -e $(pwd)
 ```bash
 nosetests -v
 ```
+
+## Usage
+
+```bash
+cfb-python --help
+```
