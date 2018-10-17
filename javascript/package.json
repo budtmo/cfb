@@ -1,0 +1,31 @@
+{
+  "name": "cfb-javascript",
+  "version": "0.0.1",
+  "description": "Sample CLI written in Javascript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/butomo1989/cfb.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Budi Utomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/butomo1989/cfb/issues"
+  },
+  "homepage": "https://github.com/butomo1989/cfb#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.1",
+    "commander": "^2.19.0",
+    "mocha": "^5.2.0",
+    "mock-cli": "^0.1.2"
+  },
+  "bin": {
+    "cfb-javascript": "./index.js"
+  }
+}
