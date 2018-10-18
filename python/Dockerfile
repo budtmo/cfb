@@ -27,4 +27,4 @@ ENV LANG=C.UTF-8
 #=================
 COPY . /root/
 RUN pip install -e $(pwd)
-CMD cfb-python
+CMD cfb-p --help

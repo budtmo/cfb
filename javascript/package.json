@@ -1,5 +1,5 @@
 {
-  "name": "cfb-javascript",
+  "name": "cfb-js",
   "version": "0.0.1",
   "description": "Sample CLI written in Javascript",
   "repository": {
@@ -26,6 +26,6 @@
     "mock-cli": "^0.1.2"
   },
   "bin": {
-    "cfb-javascript": "./index.js"
+    "cfb-js": "./index.js"
   }
 }

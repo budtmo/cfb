@@ -15,5 +15,5 @@ nosetests -v
 ## Usage
 
 ```bash
-cfb-python --help
+cfb-p --help
 ```
