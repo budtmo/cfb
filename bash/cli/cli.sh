@@ -2,7 +2,7 @@
 
 function help() {
   cat <<EOF
-Usage: $retry [options] -- execute command
+Usage: $cfb-b [options] -- execute command
     -h, --help, -?              Print help.                    
     -v, --version               Print the current version and exit.
     -w, --write=<text>          Print out given text to the console.
